@@ -1,5 +1,5 @@
 ---
-title: Introducción
+title: Nuevo titulo
 layout: home
 ---
 
