@@ -1,6 +1,6 @@
 ---
 title: nuevo titulo
 layout: home
-parents: 2
+parents: Ancestry
 ---
 
