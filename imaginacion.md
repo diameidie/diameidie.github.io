@@ -1,4 +1,5 @@
 ---
-title: imaginacion
+title: imagina
 layout: home
+parent: imaginacion
 ---
